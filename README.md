@@ -1,1 +1,1 @@
-# Coffee-shop-HTML
+# Coffee-shop-LWC
