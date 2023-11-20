@@ -4,12 +4,51 @@ body{
     background-size: cover;
     background-position: center;
 }
-#title{
+
+#title{ 
     color: chocolate;
     text-align: center;
-    border: 5px solid saddlebrown;
+    text-shadow: 3px 3px 5px red;
+    border-color: saddlebrown;
+    border-width: 5px 5px 5px 5px;
+    border-style: solid;
+
 }
+
+
 #subtitle{
     color: chocolate;
     text-align: right;
+    text-shadow: 3px 3px 5px red;
+}
+#font1{
+    color: chocolate;
+}
+#font2{
+    color: white;
+}
+#font3{
+    color: orange;
+}
+#font4{
+    color:black;
+}
+#font5{
+    color: red;
+}
+#font6{
+    color:lightpink;
+}
+
+
+
+
+div.sticky{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 3px;
+    background-color:#151114;
+    border: 2px solid gray;
+
 }
